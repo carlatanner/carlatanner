@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning full stack development (HTML- CSS- Javascript- JAVA- Python)
 - 💞️ I’m looking to collaborate on a web development proyect. I have a very deep experience with database and linux enviroment.  I have almost 30 years of experience.
 - 📫 How to reach me : carla.tanner@gmail.com 
+- 🌱  🌱 🌱  Also I love healthy life and nature  🌱 🌱 🌱
 
 <!---
 carlatanner/carlatanner is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
